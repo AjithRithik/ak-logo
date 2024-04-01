@@ -1,0 +1,5 @@
+@font-face {
+    font-family: 'Good Dog';
+    src: url('/fonts/GoodDog-Regular.ttf') format('truetype');
+    /* Add more src lines for different font weights/styles if needed */
+  }
